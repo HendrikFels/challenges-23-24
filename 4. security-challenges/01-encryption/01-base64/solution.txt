@@ -1,0 +1,5 @@
+An encoding scheme is a set of rules that govern how data is represented or converted into a specific format. Encoding allows data to be converted into a different form, making it suitable for transmission, storage, or processing. It does not necessarily encrypt data, but it transforms it into a different representation.
+
+Base64 is an encoding scheme that converts binary data into an ASCII string format. It operates by grouping three bytes (24 bits) of data at a time and representing those bits as four base-64 digits. This scheme is primarily used to encode binary data, such as images, audio files, or any binary data, into a text-based format. It's often used in scenarios where text-based systems or protocols cannot handle binary data.
+
+To encode and decode text to/from Base64 in various programming languages, including Python, JavaScript, or others, you would typically use specific functions or libraries provided by those languages.
