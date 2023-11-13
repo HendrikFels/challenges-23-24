@@ -1,0 +1,12 @@
+G0062
+T1566
+creates a directory in AppData
+sys
+c2
+VBSscript
+MicrosoftEdgeUpdateTaskMachineUC
+Get-WmiObject 
+keylogger
+T1056.001
+45.89.125.189
+T1059.001
