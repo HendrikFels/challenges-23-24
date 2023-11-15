@@ -1,6 +1,0 @@
-mkdir solution
-touch solution.md
-cp '3. shell-challenges/solution/solution.md' '3. shell-challenges/solution.md'
-mv '3. shell-challenges/solution.md' '3. shell-challenges/solution.txt'
-rm -r '3. shell-challenges/solution'
-cat solution.txt

@@ -1,5 +1,5 @@
-Python
+javascript
 SQL injection
-1992
-String.equals
-20.000.000.000.000
+1993
+objects.equals()
+20000000000000
